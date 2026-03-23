@@ -4,7 +4,7 @@
 
 We will be using the Iris database imported from the seaborn library. It consists of 5 columns and 150 rows. The target variable is 'species'.
 
-The goal is the classify flowers according to their features (independent variables).
+The goal is the classify flowers according to their features (independent variables). Build machine learning models that can classify iris flowers into the correct species based on their physical measurements.
 
 ## Skills Demonstrated
 
