@@ -30,6 +30,5 @@ import seaborn as sns
 ## How to Run
 
 1. Open Python Jupiter Notebook
-2. Download the coffee_shop_sales.csv file and ensure it is placed under the same folder as the Global Coffee Analysis.py folder.
 3. Run the Python script
-4. Execute analysis queries
+4. Execute analysis and machine learning queries
